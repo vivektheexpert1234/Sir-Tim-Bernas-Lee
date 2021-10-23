@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.B{
+    border-radius: 50%;
+    width: 175px;
+    margin: 30px;
+    margin-top: 50px;
+}
+#lee{z-index: 9;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    background: linear-gradient(aqua 0%, #28eb00 100%);
+    overflow: hidden;
+}
+h1{
+    font-size: 40px;
+    font-family:sans-serif;
+    font-weight: 300;
+    
+}
+h2{
+    font-size: 30px;
+    font-family:monospace;
+    font-weight: 300;
+    
+}
+#name{
+    font-size: 30px;
+    font-family:cursive;
+    font-weight: 300;
+    
+}
+#yeet{
+    font-family: cursive;
+    z-index: 7;
+
+
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: aquamarine;
+    margin: 8px auto;
+}
+.F
+{
+    position: fixed;
+    top: 0px;
+    cursor: pointer;
+    z-index: 10;
+    background: #1eebeb;
+     margin-top: 0px;
+     width: 100%;
+     
+}
+.D
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    font-family: 'Italianno', cursive;
+    display: inline;
+    
+}
+
+a{
+    text-decoration: none;
+}
+.contact1 h3{
+    display: inline;
+}
